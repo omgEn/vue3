@@ -1,3 +1,6 @@
+## 介绍
+基于vue3+typescript
+
 # vue3
 
 ## Project setup
